@@ -1,0 +1,2 @@
+receiveAsync	zmq/asynczmq.html#receiveAsync,ZConnection	asynczmq: receiveAsync(conn: ZConnection): Future[string]	
+sendAsync	zmq/asynczmq.html#sendAsync,ZConnection,string,ZSendRecvOptions	asynczmq: sendAsync(conn: ZConnection; msg: string; flags: ZSendRecvOptions = DONTWAIT): Future[\n    void]	
